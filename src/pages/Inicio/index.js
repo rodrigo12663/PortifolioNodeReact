@@ -151,6 +151,7 @@ export default function Inicio() {
                                                  <li > <FaGithubAlt id="iconeG"/></li>
                                                  <li className="px-2"><p> {project.name}</p></li>
                                             </ul>
+                                        
                                            
                                             <p className="card-text">{project.description}</p>
                                             <a id="btnProjetos" href={"https://github.com/rodrigo12663/"+project.name} className="btn btn-primary">Visualizar reporsitório</a>
