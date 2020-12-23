@@ -1,7 +1,6 @@
 {
   "name": "app-portifolio",
   "version": "0.1.0",
-  
   "engines": {
     "node": "14.15.1"
  },
