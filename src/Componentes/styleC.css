@@ -1,0 +1,46 @@
+*{
+    padding:0;
+    margin: 0;
+}
+nav{
+    background:#0E0B16;
+     box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+#btnProj{
+    width: 10rem;
+    border-radius:18px;
+    background-color: #0E0B16;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-transition: 0.3s ease-in;
+     -moz-transition: 0.3s ease-in;
+     -o-transition: 0.3s ease-in;
+     transition: 0.3s ease-in
+}
+
+#btnProj:hover {
+    background-color: #4717f6;
+    color: white;
+    transition: 0.3;
+    -webkit-transition: 0.3s ease-in;
+     -moz-transition: 0.3s ease-in;
+     -o-transition: 0.3s ease-in;
+     transition: 0.3s ease-in
+  }
+
+#link{
+    font-size: 18px;
+    color: white;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+#logo{
+    width: 8rem;
+    height: 7.6rem;
+   
+}

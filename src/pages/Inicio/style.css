@@ -1,0 +1,215 @@
+*,html,body{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+#fundoP{
+    background:#0E0B16;
+    height: 450px;
+}
+#txtTituloD{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 28px;
+    
+  
+}
+
+#imgcard{
+    width: 8rem;
+    height: 8rem;
+    justify-content: center;
+}
+#txtcard{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+hr{
+    font-family: Arial;
+    font: 500 bold;
+
+   
+    border: 2px solid  #4717f6;
+   
+}
+#Sobre{
+    height: 800px;
+    border-radius: 10px;
+    box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -o-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+    -ms-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+#fundoC{
+    background: white;
+   
+    border-radius: 5px;
+    height: 10rem;
+    box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -moz-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -webkit-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -o-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -ms-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+#fundoCard{
+
+    background:  #4717f6;
+    border-radius: 10px;
+    box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -moz-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -webkit-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -o-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -ms-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+
+}
+#txtcardT{
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+#perfilT{
+    width: 7rem;
+    height: 7rem;
+    border-radius:80%;
+    background-color:#4717f6 ;
+}
+
+#btnSobre{
+    background-color: #4717f6;
+    color:white;
+    width: 10rem;
+    border-radius:18px;
+    font-family: 'Open Sans', sans-serif;
+}
+#btnContact{
+    width: 10rem;
+    border-radius:18px;
+    background-color: #4717f6;
+    color:white;
+    margin: 6px;
+    font-family: 'Open Sans', sans-serif;
+}
+#text-apre{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    width: 20rem;
+    font: bold;
+    color:white;
+}
+#divSub2{
+    margin-top: 35px;
+}
+#text-dsv{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    width: 20rem;
+    font: bold;
+    color:white;
+}
+#fdHabi{
+    
+
+    border-radius: 10px;
+    box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -moz-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -webkit-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -o-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+   -ms-box-shadow: 0 3px 20px 0px rgba(0, 0, 0, 0.1);
+}
+#txtTituloHa{
+    color:black   ;
+}
+#container-apre{
+    margin-left: 2.5rem;
+}
+#Habi2{
+    margin-top: 70px;
+}
+
+#icone{
+    color: #4717f6 ;
+    width: 5rem;
+    height: 5rem;
+}
+#iconeG{
+    color: #4717f6 ;
+    width: 1rem;
+    height: 1rem;
+}
+#btnProjetos{
+    background-color: #4717f6;
+    color: white;
+    transition: 0.3;
+    -webkit-transition: 0.3s ease-in;
+     -moz-transition: 0.3s ease-in;
+     -o-transition: 0.3s ease-in;
+     transition: 0.3s ease-in
+}
+li{
+    list-style:none;
+}
+
+
+@media only screen and (min-width: 800px) {
+    #perfil{
+        width: 20rem;
+        border-radius: 80%;
+        height: 20rem;
+        background-color:#4717f6 ;
+    }
+    #Github{
+        width: 1330px;
+        margin-top: 90px;
+    }
+    #text-dsv{
+       
+        font-size: 25px;
+        width: 80rem;
+        
+        
+    }
+    #ContainerHabilidades{
+        height: 600px;
+    }
+    #text-apre{
+        font-size:95px;
+        width: 80rem;
+        font: bold;
+      
+    }
+    #titulow{
+        font-family: Arial;
+        font: 500 bold;
+        text-align: center;
+        width: 6rem;
+        margin-left: 500px;
+      
+    }
+    hr{
+        font-family: Arial;
+        font: 500 bold;
+        text-align: center;
+        width: 21.4rem;
+        margin-left: 400px;
+      
+       
+    }
+    #divSub2{
+        margin-top: 70px;
+    }
+    #fundoP{
+       
+        height: 600px;
+    }
+    #Sobre{
+        height: 28rem;
+    }
+    nav{
+        height: 5rem;
+    }
+    body{
+        width: 100%;
+    }
+   
+  }
