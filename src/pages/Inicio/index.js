@@ -105,18 +105,13 @@ export default function Inicio() {
                             <div className="d-flex justify-content-center">
                                 <FaGithub id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
                         <div id="fundoC" className="card">
                             <div className="d-flex justify-content-center">
                                 <FaReact id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-
-                            </div>
+                            
                         </div>
 
                     </div>
