@@ -65,33 +65,25 @@ export default function Inicio() {
                             <div className="d-flex justify-content-center">
                                 <FaHtml5 id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
                         <div id="fundoC" className="card">
                             <div className="d-flex justify-content-center">
                                 <FaCss3 id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
                         <div id="fundoC" className="card">
                             <div className="d-flex justify-content-center">
                                 <FaBootstrap id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
                         <div id="fundoC" className="card">
                             <div className="d-flex justify-content-center">
                                 <FaJava id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
 
                     </div>
@@ -101,17 +93,13 @@ export default function Inicio() {
                                 <FaNodeJs id="icone" />
                             </div>
 
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
                         <div id="fundoC" className="card">
                             <div className="d-flex justify-content-center">
                                 <FaLaravel id="icone" />
                             </div>
-                            <div className="card-body">
-                                <p id="txtcardT" className="card-text">html é uma linguagem de hipertexto</p>
-                            </div>
+                            
                         </div>
                         <div id="fundoC" className="card">
                             <div className="d-flex justify-content-center">
